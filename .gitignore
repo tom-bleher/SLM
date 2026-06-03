@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+
+# Copyrighted reference material — kept local only
+week1/refrences/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.marimo.toml
+__marimo__/
