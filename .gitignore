@@ -2,7 +2,10 @@
 **/.DS_Store
 
 # Copyrighted reference material — kept local only
-week1/refrences/
+refrences/
+
+# LaTeX editor temp output
+.texpadtmp/
 
 # Python
 __pycache__/
@@ -10,3 +13,6 @@ __pycache__/
 .venv/
 .marimo.toml
 __marimo__/
+
+# Office lock/temp files
+~$*
